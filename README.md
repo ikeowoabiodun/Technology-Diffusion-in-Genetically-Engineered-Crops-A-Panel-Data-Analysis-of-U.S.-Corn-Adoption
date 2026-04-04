@@ -1,0 +1,1 @@
+# Technology-Diffusion-in-Genetically-Engineered-Crops-A-Panel-Data-Analysis-of-U.S.-Corn-Adoption
