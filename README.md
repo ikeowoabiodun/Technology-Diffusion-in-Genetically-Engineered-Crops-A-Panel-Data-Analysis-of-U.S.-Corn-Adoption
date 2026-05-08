@@ -55,15 +55,13 @@ The visual evidence suggests a gradual shift from single-trait adoption toward s
 
 The fixed-effects panel regression model is specified as:
 
-\[
-Stacked_{it} = \beta_1 HT_{it} + \beta_2 Bt_{it} + \alpha_i + \gamma_t + \varepsilon_{it}
-\]
+Stacked_it = β₁HT_it + β₂Bt_it + αᵢ + γₜ + ε_it
 
 Where:
 
-- $\alpha_i$ = State-specific fixed effects  
-- $\gamma_t$ = Time-specific fixed effects  
-- $\varepsilon_{it}$ = Error term
+* αᵢ = State-specific fixed effects
+* γₜ = Time-specific fixed effects
+* ε_it = Error term
 
 This specification controls for unobserved heterogeneity across states and common shocks over time.
 
