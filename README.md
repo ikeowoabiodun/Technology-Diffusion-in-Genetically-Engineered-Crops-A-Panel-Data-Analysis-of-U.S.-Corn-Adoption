@@ -51,12 +51,14 @@ The relationship between Bt and stacked adoption suggests a negative association
 
 The visual evidence suggests a gradual shift from single-trait adoption toward stacked gene technologies.
 
-
 ## Econometric Model
+
 The fixed-effects panel regression model is specified as:
-$$
+
+\[
 Stacked_{it} = \beta_1 HT_{it} + \beta_2 Bt_{it} + \alpha_i + \gamma_t + \varepsilon_{it}
-$$
+\]
+
 Where:
 
 - $\alpha_i$ = State-specific fixed effects  
