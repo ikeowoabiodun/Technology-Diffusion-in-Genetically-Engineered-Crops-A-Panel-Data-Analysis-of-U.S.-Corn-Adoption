@@ -53,18 +53,16 @@ The visual evidence suggests a gradual shift from single-trait adoption toward s
 
 
 ## Econometric Model
-
-A fixed-effects panel regression model is estimated to control for unobserved heterogeneity:
-
-Stacked_it = β1 HT_it + β2 Bt_it + α_i + γ_t + ε_it
-
+The fixed-effects panel regression model is specified as:
+$$
+Stacked_{it} = \beta_1 HT_{it} + \beta_2 Bt_{it} + \alpha_i + \gamma_t + \varepsilon_{it}
+$$
 Where:
 
-- 𝛼𝑖: State-specific effects
-- 𝛾𝑡: Time-specific effects
-- 𝜀𝑖𝑡: Error term
+- $\alpha_i$ = State-specific fixed effects  
+- $\gamma_t$ = Time-specific fixed effects  
+- $\varepsilon_{it}$ = Error term
 
-  
 This specification controls for unobserved heterogeneity across states and common shocks over time.
 
 ## Key Results
